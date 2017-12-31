@@ -7,5 +7,8 @@ Using Feigh without Spring, annotations... It is just needed to pass by openFeig
 
 Using sping-cloud it will need to import FeignClientsConfiguration.class as shown in http://ryanjbaxter.com/cloud/spring%20cloud/spring/2016/10/20/manual-feign-clients.html
 
+Also interesting:
+http://blog.ippon.fr/2016/09/21/feign-encore-un-client-http/
+
 === Building example with Gradle
  Install and run `gradle` to produce `build/github`
